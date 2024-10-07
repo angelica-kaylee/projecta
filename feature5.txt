@@ -1,1 +1,2 @@
-this is a file from developo branch.
+this is a file from testforconflict branch
+
